@@ -1,0 +1,24 @@
+{
+	"Type": "keyboard",
+	"Buttons": [{
+		"Columns": 6,
+		"Rows": 2,
+		"Text": "Оплата на карту Приват Банка",
+                "TextOpacity" : "0",
+                "BgMedia" : "https://i.ibb.co/NYrqZJv/carta.jpg",
+                "TextSize": "medium",
+		"TextHAlign": "center",
+		"ActionType": "reply",
+		"ActionBody": "ПриватБанк"
+	}, {
+		"Columns": 6,
+		"Rows": 2,
+		"Text": "Наложенный платеж",
+                "TextOpacity" : "0",
+                "BgMedia" : "https://i.ibb.co/Wf9J7CJ/naloj.jpg",
+		"TextSize": "medium",
+		"TextHAlign": "center",
+		"ActionType": "reply",
+		"ActionBody": "Наложенный платеж"
+	}]
+}

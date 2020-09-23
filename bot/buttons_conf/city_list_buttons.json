@@ -1,0 +1,16 @@
+{
+  "Type": "keyboard",
+  "Buttons": [
+    {
+      "Columns": 6,
+      "Rows": 2,
+      "Text": "Сделать Заказ",
+      "TextOpacity": "0",
+      "BgMedia": "https://i.ibb.co/Sn2zJB3/zakaz.jpg",
+      "TextSize": "medium",
+      "TextHAlign": "center",
+      "ActionType": "reply",
+      "ActionBody": "Zakaz"
+    }
+  ]
+}

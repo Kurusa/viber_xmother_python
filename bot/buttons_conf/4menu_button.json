@@ -1,0 +1,24 @@
+{
+	"Type": "keyboard",
+	"Buttons": [{
+		"Columns": 6,
+		"Rows": 2,
+		"Text": "Да",
+                "TextOpacity" : "0",
+                "BgMedia" : "https://i.ibb.co/6BBYR3h/yes.jpg",
+                "TextSize": "medium",
+		"TextHAlign": "center",
+		"ActionType": "reply",
+		"ActionBody": "Yes"
+	}, {
+		"Columns": 6,
+		"Rows": 2,
+		"Text": "Нет",
+                "TextOpacity" : "0",
+                "BgMedia" : "https://i.ibb.co/Km2TpPQ/no.jpg",
+		"TextSize": "medium",
+		"TextHAlign": "center",
+		"ActionType": "reply",
+		"ActionBody": "No"
+	}]
+}

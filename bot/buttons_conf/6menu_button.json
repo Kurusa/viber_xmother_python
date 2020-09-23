@@ -1,0 +1,24 @@
+{
+	"Type": "keyboard",
+	"Buttons": [{
+		"Columns": 6,
+		"Rows": 2,
+		"Text": "Отправитель",
+                "TextOpacity" : "0",
+                "BgMedia" : "https://i.ibb.co/CnFKp8c/sender.jpg",
+                "TextSize": "medium",
+		"TextHAlign": "center",
+		"ActionType": "reply",
+		"ActionBody": "Sender"
+	}, {
+		"Columns": 6,
+		"Rows": 2,
+		"Text": "Получатель",
+                "TextOpacity" : "0",
+                "BgMedia" : "https://i.ibb.co/QCr7KZj/recipient.jpg",
+		"TextSize": "medium",
+		"TextHAlign": "center",
+		"ActionType": "reply",
+		"ActionBody": "Recipient"
+	}]
+}
